@@ -50,7 +50,7 @@ Este aplicativo requer:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nearby.git
+   git clone https://github.com/BrunoHenriqueOliveira/Nearby
    ```
 2. Abra o projeto no Android Studio.
 3. Configure o backend e inicie-o localmente.
